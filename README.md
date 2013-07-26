@@ -17,6 +17,8 @@ Because the one I found at the [Alfred Forums](http://www.alfredforum.com/topic/
 - Double click to import into Alfred.
 - READ THE README IN THE WORKFLOW. People forget this, right?
 - Invoke Alfred, type 'force'
+- Put in your admin password when the auth dialog comes up.
+- POOF. File(s) in Trash (even busy, locked) GONE.
 
 ### Usage
 
@@ -24,7 +26,7 @@ DURRRRRRRR see above.
 
 ### Workarounds
 
-None needed. Yet.
+Workaround for sudo rm? Uhhhhhhh.
 
 ### Warranties
 
